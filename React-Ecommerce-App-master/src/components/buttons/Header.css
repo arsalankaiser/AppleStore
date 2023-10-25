@@ -1,0 +1,63 @@
+.custom-bg {
+  background-color: #8c9980;
+}
+.card {
+  background-color: #f2f2e0;
+}
+.bg {
+  background-color: #e7e7d3;
+
+}
+.card-title {
+  color: rgba(2, 50, 2, 0.607);
+}
+.lead {
+  color: darkolivegreen;
+}
+.about
+{
+    background-color: #e7e7d3;
+}
+/* In a CSS stylesheet */
+.text{
+    color: darkolivegreen;
+}
+.about-btn{
+    background-color:#8c9980 ;
+    color: white;
+    border: 1px solid darkolivegreen;
+    padding: 10px;
+    text-decoration: none
+}
+.contact{
+    background-color: #e7e7d3;
+}
+.btn-contact{
+    background-color:#8c9980 ;
+    border: 1px solid darkolivegreen;
+    padding: 10px;
+    color: white;
+    text-decoration: none
+}
+.modal-header{
+    background-color: #8c9980; 
+}
+.modal-body{
+    background-color: #e7e7d3;
+}
+.btn-login{
+    background-color: #8c9980; 
+    border: 1px solid darkolivegreen;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+.btn-cart{
+    background-color: #8c9980; 
+    border: 1px solid darkolivegreen;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+
